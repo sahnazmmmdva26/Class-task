@@ -1,0 +1,15 @@
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\classtask1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\classtask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\classtask1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\classtask1.AssemblyInfo.cs
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\classtask1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\shahnaz\classtask1\bin\Debug\net6.0\classtask1.exe
+C:\Users\User\Documents\shahnaz\classtask1\bin\Debug\net6.0\classtask1.deps.json
+C:\Users\User\Documents\shahnaz\classtask1\bin\Debug\net6.0\classtask1.runtimeconfig.json
+C:\Users\User\Documents\shahnaz\classtask1\bin\Debug\net6.0\classtask1.dll
+C:\Users\User\Documents\shahnaz\classtask1\bin\Debug\net6.0\classtask1.pdb
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\classtask1.dll
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\refint\classtask1.dll
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\classtask1.pdb
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\classtask1.genruntimeconfig.cache
+C:\Users\User\Documents\shahnaz\classtask1\obj\Debug\net6.0\ref\classtask1.dll
